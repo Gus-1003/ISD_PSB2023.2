@@ -5,6 +5,6 @@
 
 # Instituto Santos Dumont
   * Programa de Pos-graduação em Neuroengenharia
-  * Displina: Transdução e Processamento de Sinais Biológicos
-  * Docente: Denis Delisle Rodriguez
-  * Turma: 2023.2
+
+## Objetivo:
+  * Compartilhar códigos desenvolvidos durante o estudo da eletrofisiologia humana.
